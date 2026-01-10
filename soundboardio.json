@@ -10,10 +10,10 @@
   "color": "#BC515A",
   "rootUrl": "sounds/",
   "author": {
-    "name": "Honza",
-    "url": "www.seznamzpravy.cz"
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
   },
-  "lang": "cs",
+  "lang": "en",
   "version": "1.0.0",
   "icons": [
     {
