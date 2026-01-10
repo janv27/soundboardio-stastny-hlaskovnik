@@ -35,12 +35,12 @@
   ],
   "tiles": [
     {
-      "name": "Yes!",
-      "filename": "yes.mp3"
+      "name": "Webový soundboard!",
+      "filename": "tereza_webovy_soundboard.mp3"
     },
     {
-      "name": "No no no",
-      "filename": "nono.mp3"
+      "name": "Ondřej pošle zdroje",
+      "filename": "ondrej_posle_zdroje.mp3"
     },
     {
       "name": "Finished",
