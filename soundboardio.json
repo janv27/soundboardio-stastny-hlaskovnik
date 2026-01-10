@@ -7,7 +7,7 @@
     "Text 2, který taky nevím.",
     "Myslím, že tento hláškovník je opravdu šťastný, protože jste ho právě navštívili."
   ],
-  "color": "#F5E4E3",
+  "color": "#BC515A",
   "rootUrl": "sounds/",
   "author": {
     "name": "AquaSoup",
@@ -39,6 +39,10 @@
       "filename": "tereza_webovy_soundboard.mp3"
     },
     {
+      "name": "Ondřej pošle zdroje",
+      "filename": "ondrej_posle_zdroje.mp3"
+    },
+    {
       "name": "Babiš: Jdeme s trendem",
       "filename": "babis_jdeme_s_trendem.mp3"
     },
@@ -47,40 +51,40 @@
       "filename": "babis_moje_rec_2x.mp3"
     },
     {
-      "name": "STFU",
-      "filename": "stfu.mp3"
+      "name": "Klaus: Nevím, ...",
+      "filename": "klaus_nevim_4x.mp3"
     },
     {
-      "name": "STFU, fat man",
-      "filename": "stfufat.mp3"
+      "name": "Zeman: Fuj",
+      "filename": "zeman_fuj.mp3"
     },
     {
-      "name": "Correct!",
-      "filename": "correct.mp3"
+      "name": "Zeman: Dobrý!",
+      "filename": "zeman_dobry.mp3"
     },
     {
-      "name": "What's the matter?",
-      "filename": "matter.mp3"
+      "name": "Zvuky: Áááhhh",
+      "filename": "zvuky_aaaahhh.mp3"
     },
     {
-      "name": "What country you from?",
-      "filename": "countryfrom.mp3",
+      "name": "Zvuky: Chybná odpověď",
+      "filename": "zvuky_bzucak.mp3",
       "tags": [
-        "Country"
+        "Zvuky"
       ]
     },
     {
-      "name": "What ain't no country",
-      "filename": "countryfrom-2.mp3",
+      "name": "Zvuky: Tadá",
+      "filename": "zvuky_tada.mp3",
       "tags": [
-        "Country"
+        "Zvuky"
       ]
     },
     {
-      "name": "You speak English in What?",
-      "filename": "countryfrom-3.mp3",
+      "name": "Zvuky: Otočení listu",
+      "filename": "zvuky_otoceni_listu.mp3",
       "tags": [
-        "Country"
+        "Zvuky"
       ]
     },
     {
