@@ -51,6 +51,10 @@
       "filename": "babis_moje_rec_2x.mp3"
     },
     {
+      "name": "Fiala (ODS): V tomhle já problém nevidím",
+      "filename": "fiala_ODS_v_tomhle_ja_problem_nevidim.mp3"
+    },
+    {
       "name": "Klaus: Nevím, ...",
       "filename": "klaus_nevim_4x.mp3"
     },
@@ -65,6 +69,9 @@
     {
       "name": "Zvuky: Áááhhh",
       "filename": "zvuky_aaaahhh.mp3"
+      "tags": [
+        "Zvuky"
+      ]
     },
     {
       "name": "Zvuky: Chybná odpověď",
@@ -83,6 +90,13 @@
     {
       "name": "Zvuky: Otočení listu",
       "filename": "zvuky_otoceni_listu.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Zamknutí auta",
+      "filename": "zvuky_zamknuti_auta.mp3",
       "tags": [
         "Zvuky"
       ]
