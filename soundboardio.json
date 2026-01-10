@@ -91,6 +91,34 @@
       "filename": "nekula_vesely_cukr_1.mp3"
     },
     {
+      "name": "Nekula (Veselý): Cukr 2",
+      "filename": "nekula_vesely_cukr_2.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): U cukru",
+      "filename": "nekula_vesely_u_cukru.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): Ať je to třeba cukr",
+      "filename": nekula_vesely_at_je_to_treba_cukr.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): Modelový příklad u cukru",
+      "filename": nekula_vesely_modelovy_priklad_u_cukru.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): A to vidíme třeba u toho cukru",
+      "filename": nekula_vesely_a_my_to_vidime_u_cukru.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): A zase se chytnu cukru",
+      "filename": nekula_vesely_a_zase_se_chytnu_cukru.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): A cena cukru klesla!",
+      "filename": nekula_vesely_cena_cukru_klesla.mp3"
+    },
+    {
       "name": "Zvuky: Áááhhh",
       "filename": "zvuky_aaaahhh.mp3",
       "tags": [
