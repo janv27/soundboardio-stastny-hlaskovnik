@@ -47,12 +47,24 @@
       "filename": "babis_jdeme_s_trendem.mp3"
     },
     {
+      "name": "Babiš: Jsme tady pro vás",
+      "filename": "babis_jsme_tady_pro_vas.mp3"
+    },
+    {
       "name": "Babiš: Moje řeč (2x)",
       "filename": "babis_moje_rec_2x.mp3"
     },
     {
-      "name": "Babiš: Řekněte, kdo Vám to řek",
+      "name": "Babiš: Řekněte přesně, kdo Vám to řek",
       "filename": "babis_reknete_kdo_vam_to_rek.mp3"
+    },
+    {
+      "name": "Babiš: Zase jenom kecy v kleci",
+      "filename": "babis_zase_jenom_kecy_v_kleci.mp3"
+    },
+    {
+      "name": "Babiš: Totální blackout",
+      "filename": "babis_totalni_blackout.mp3"
     },
     {
       "name": "Fiala (ODS): V tomhle já problém nevidím",
@@ -69,6 +81,14 @@
     {
       "name": "Zeman: Dobrý!",
       "filename": "zeman_dobry.mp3"
+    },
+    {
+      "name": "Trump: Nobody can do it like me",
+      "filename": "trump_nobody_can_do_it_like_me.mp3"
+    },
+    {
+      "name": "Nekula (Veselý): Cukr 1",
+      "filename": "nekula_vesely_cukr_1.mp3"
     },
     {
       "name": "Zvuky: Áááhhh",
