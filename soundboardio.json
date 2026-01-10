@@ -47,7 +47,7 @@
       "filename": "babis_jdeme_s_trendem.mp3"
     },
     {
-      "name": "Babiš: Moje řeč",
+      "name": "Babiš: Moje řeč (2x)",
       "filename": "babis_moje_rec_2x.mp3"
     },
     {
@@ -97,6 +97,13 @@
     {
       "name": "Zvuky: Zamknutí auta",
       "filename": "zvuky_zamknuti_auta.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Znělka - předěl",
+      "filename": "zvuky_znelka_predel.mp3",
       "tags": [
         "Zvuky"
       ]
