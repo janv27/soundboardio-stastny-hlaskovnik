@@ -55,8 +55,16 @@
       "filename": "babis_moje_rec_2x.mp3"
     },
     {
+      "name": "Babiš: Koryta (3x)",
+      "filename": "babis_koryta_3x.mp3"
+    },
+    {
       "name": "Babiš: Řekněte přesně, kdo Vám to řek",
       "filename": "babis_reknete_kdo_vam_to_rek.mp3"
+    },
+    {
+      "name": "Babiš: Tak super, už všechno víme",
+      "filename": "babis_tak_super_vsechno_vime.mp3"
     },
     {
       "name": "Babiš: Zase jenom kecy v kleci",
@@ -73,6 +81,10 @@
     {
       "name": "Klaus: Nevím (4x)",
       "filename": "klaus_nevim_4x.mp3"
+    },
+    {
+      "name": "Klaus: Tam taky už slaví dneska dopředu, ne?",
+      "filename": "klaus_tam_taky_uz_slavi.mp3"
     },
     {
       "name": "Zeman: Fuj",
@@ -154,6 +166,20 @@
       ]
     },
     {
+      "name": "Zvuky: Varovné udivení",
+      "filename": "zvuky_varovne_udiveni.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Dramatická trubka",
+      "filename": "zvuky_dramaticka_trubka.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
       "name": "Zvuky: Otočení listu",
       "filename": "zvuky_otoceni_listu.mp3",
       "tags": [
@@ -161,8 +187,15 @@
       ]
     },
     {
-      "name": "Zvuky: Vykopnutí dveří",
+      "name": "Zvuky: Vykopnutí dveří (rozbití stěny)",
       "filename": "zvuky_vykopnuti_dveri.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Facka",
+      "filename": "zvuky_facka.mp3",
       "tags": [
         "Zvuky"
       ]
@@ -177,6 +210,20 @@
     {
       "name": "Zvuky: Zpráva na ICQ",
       "filename": "zvuky_icq.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Herní check",
+      "filename": "zvuky_herni_check.mp3",
+      "tags": [
+        "Zvuky"
+      ]
+    },
+    {
+      "name": "Zvuky: Duolingo",
+      "filename": "zvuky_duolingo.mp3",
       "tags": [
         "Zvuky"
       ]
