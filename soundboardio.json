@@ -34,6 +34,22 @@
     }
   ],
   "tiles": [
+     {
+      "name": "Černochová: Vtípek",
+      "filename": "cernochova_vtipek.mp3"
+    },
+    {
+      "name": "Zeman: Fuj",
+      "filename": "zeman_fuj.mp3"
+    },
+    {
+      "name": "Zeman: Dobrý!",
+      "filename": "zeman_dobry.mp3"
+    },
+    {
+      "name": "Zeman: Chtěl bych vám popřát bolest",
+      "filename": "zeman_bolest.mp3"
+    },
     {
       "name": "Babiš: Jdeme s trendem",
       "filename": "babis_jdeme_s_trendem.mp3"
@@ -86,18 +102,8 @@
       "name": "Klaus: Tam taky už slaví dneska dopředu, ne?",
       "filename": "klaus_tam_taky_uz_slavi.mp3"
     },
-    {
-      "name": "Zeman: Fuj",
-      "filename": "zeman_fuj.mp3"
-    },
-    {
-      "name": "Zeman: Dobrý!",
-      "filename": "zeman_dobry.mp3"
-    },
-    {
-      "name": "Trump: Nobody can do it like me, nobody",
-      "filename": "trump_nobody_can_do_it_like_me.mp3"
-    },
+   
+
     {
       "name": "Nekula (Veselý): Cukr 1",
       "filename": "nekula_vesely_cukr_1.mp3"
